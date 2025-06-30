@@ -1,4 +1,4 @@
-# 📝 Django Task Manager
+# Django Task Manager
 
 A simple and responsive Task Manager built with Django and Bootstrap. Users can register, log in, and manage their personal task list with deadlines, priorities, and statuses.
 
