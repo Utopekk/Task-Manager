@@ -26,5 +26,6 @@ You can log in using the following test account:
 ---
 ## How to run
 ```sh
-cd django1
-python manage.py runserver```
+* cd django1
+* python manage.py runserver
+
