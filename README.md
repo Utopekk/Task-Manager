@@ -24,3 +24,6 @@ You can log in using the following test account:
 - **Password**: `test1234!`
 
 ---
+## How to run
+```cd django1```
+```python manage.py runserver```
