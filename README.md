@@ -34,9 +34,9 @@ You can log in using the following test account:
 
 2. **Install dependencies**  
    Make sure you have pip installed, then run:
-   > ```sh
-   > pip install django
-   > ```
+   ```sh
+   pip install django
+   ```
 
 3. **Run database migrations**  
    ```sh
