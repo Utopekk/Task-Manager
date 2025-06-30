@@ -29,7 +29,6 @@ You can log in using the following test account:
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/Utopekk/Task-Manager.git
-   cd Task-Manager/django1
    ```
 
 2. **Install dependencies**  
