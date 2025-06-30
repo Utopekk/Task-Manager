@@ -25,8 +25,31 @@ You can log in using the following test account:
 
 ---
 ## How to run
-```sh
-cd django1
-python manage.py runserver
-http://127.0.0.1:8000/
 
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/Utopekk/Task-Manager.git
+   cd Task-Manager/django1
+   ```
+
+2. **Install dependencies**  
+   Make sure you have pip installed, then run:
+   > ```sh
+   > pip install django
+   > ```
+
+3. **Run database migrations**  
+   ```sh
+   python manage.py migrate
+   ```
+
+4. **Create a superuser (optional, for admin access)**  
+   ```sh
+   python manage.py createsuperuser
+   ```
+
+5. **Start the development server**  
+   ```sh
+   python manage.py runserver
+   ```
+   The app will be available at [http://127.0.0.1:8000/]
